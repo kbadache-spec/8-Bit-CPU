@@ -56,7 +56,7 @@ Where :
 
 The complete ISA specification can be found in /Documents.
 
-##Register encoding:
+## Register encoding:
 
 | Register | Address |
 | -------- | ------- |
