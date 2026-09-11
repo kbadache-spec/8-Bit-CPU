@@ -1,0 +1,16 @@
+Load R1 0000
+Load R2 0001
+Add R1 R2
+Store R2 0010
+Sub R1 R2
+Store R2 0011
+Load R3 0010
+And R1 R3
+Store R3 0100
+Or R3 R1
+Store R1 0101
+Not R1
+Store R1 0110
+NOR R1 R2
+Store R2 0111
+XOR R2 R3

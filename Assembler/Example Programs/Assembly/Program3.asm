@@ -1,0 +1,4 @@
+Load R3 1000
+Load R4 0000
+NAND R3 R4
+Store R4 0001

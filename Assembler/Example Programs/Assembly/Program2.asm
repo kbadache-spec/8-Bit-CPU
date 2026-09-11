@@ -1,0 +1,3 @@
+Load R1 0000
+NOT R1
+Store R1 1000
